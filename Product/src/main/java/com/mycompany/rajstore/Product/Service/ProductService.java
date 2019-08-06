@@ -13,6 +13,7 @@ import com.mycompany.rajstore.Product.domain.Product;
 @RestController
 public class ProductService {
 	
+	// This is Product Service
 	@RequestMapping("/product/{id}")
 	public Product getProduct(@PathVariable("id") int id)
 	{
