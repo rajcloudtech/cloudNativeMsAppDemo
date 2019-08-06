@@ -2,6 +2,8 @@ package com.mycompany.rajstore.Product.domain;
 
 public class Product {
 	
+	// This is a product pojo - domain class
+	
 	public Product()
 	{}
 	
